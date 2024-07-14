@@ -10,8 +10,6 @@ This project is a simple banking system implemented in Python. It allows users t
 - `withdraw.py` - Withdraws cash from the account
 - `accounts.csv` - Stores user account details
 
-![Project Structure](images/project_structure.png)
-
 ## Features
 - Create a new account
 - Deposit money
@@ -56,7 +54,7 @@ For example, to deposit money:
 3. Enter the new balance: `500`
 4. You will see a confirmation message: `Balance updated successfully.`
 
-![Example Usage](images/example_usage.png)
+![Example Usage](https://github.com/sahanHansaja026/Bank-Program---Python-/blob/main/Screenshot%202024-07-14%20115322.png)
 
 ## Files Description
 - `main.py`: The main entry point of the program. It coordinates the different functionalities.
