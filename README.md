@@ -54,7 +54,7 @@ For example, to deposit money:
 3. Enter the new balance: `500`
 4. You will see a confirmation message: `Balance updated successfully.`
 
-![Example Usage](https://github.com/sahanHansaja026/Bank-Program---Python-/blob/main/Screenshot%202024-07-14%20115322.png)
+![Example Usage](https://github.com/sahan026/images/blob/main/bank_program.png)
 
 ## Files Description
 - `main.py`: The main entry point of the program. It coordinates the different functionalities.
